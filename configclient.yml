@@ -1,0 +1,9 @@
+server:
+  port: 17001
+spring:
+  application:
+    name: CONFIGCLIENT
+  cloud:
+    consul:
+      port: 8500
+      host: localhost
