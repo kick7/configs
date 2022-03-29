@@ -7,3 +7,5 @@ spring:
     consul:
       port: 8500
       host: localhost
+  profiles:
+    active: dev
